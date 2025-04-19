@@ -1,0 +1,33 @@
+# HarmonyOS build output
+build/
+*.hap
+*.app
+local.properties
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Build artifacts
+oh_modules/
+.hvigor/
+dist/
